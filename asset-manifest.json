@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/astro-charts/static/css/main.f855e6bc.css",
-    "main.js": "/astro-charts/static/js/main.ddde48ac.js",
-    "static/js/453.33a455c9.chunk.js": "/astro-charts/static/js/453.33a455c9.chunk.js",
-    "static/media/logo.svg": "/astro-charts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/astro-charts/index.html",
-    "main.f855e6bc.css.map": "/astro-charts/static/css/main.f855e6bc.css.map",
-    "main.ddde48ac.js.map": "/astro-charts/static/js/main.ddde48ac.js.map",
-    "453.33a455c9.chunk.js.map": "/astro-charts/static/js/453.33a455c9.chunk.js.map"
+    "main.css": "/astrocharts/static/css/main.f855e6bc.css",
+    "main.js": "/astrocharts/static/js/main.981651ab.js",
+    "static/js/453.33a455c9.chunk.js": "/astrocharts/static/js/453.33a455c9.chunk.js",
+    "static/media/logo.svg": "/astrocharts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/astrocharts/index.html",
+    "main.f855e6bc.css.map": "/astrocharts/static/css/main.f855e6bc.css.map",
+    "main.981651ab.js.map": "/astrocharts/static/js/main.981651ab.js.map",
+    "453.33a455c9.chunk.js.map": "/astrocharts/static/js/453.33a455c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.ddde48ac.js"
+    "static/js/main.981651ab.js"
   ]
 }
