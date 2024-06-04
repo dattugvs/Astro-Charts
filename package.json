@@ -1,7 +1,7 @@
 {
   "name": "astro-charts",
   "version": "0.1.0",
-  "homepage": "https://dattugvs.github.io/astro-charts",
+  "homepage": "https://dattugvs.github.io/astrocharts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
