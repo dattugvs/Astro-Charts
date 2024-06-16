@@ -1,0 +1,59 @@
+/* Variables for easy customization */
+:root {
+    --border-color: black;
+    --border-width: 1px;
+    --house-padding: 10px;
+    --input-padding: 5px;
+}
+
+/* General table styling */
+table,
+th,
+td {
+    border: var(--border-width) solid var(--border-color) !important;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    /* Ensure padding and borders are included in the element's total width and height */
+}
+
+/* Class for house elements */
+.house {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    word-break: break-word;
+    padding: var(--house-padding);
+    box-sizing: border-box;
+    /* Include padding and borders in the element's width and height */
+}
+
+/* Class for text input within house */
+.text-input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    padding: var(--input-padding);
+    box-sizing: border-box;
+    /* Include padding and borders in the element's width and height */
+    /* background-color: transparent; */
+    /* Ensure background is transparent to show the parent element's color */
+    font-size: inherit;
+    /* Inherit font size from parent for consistency */
+}
+
+/* Responsive design: Adjustments for smaller screens */
+@media (max-width: 600px) {
+    .house {
+        padding: 5px;
+        font-size: 0.9em;
+        /* Slightly smaller font size for better fit */
+    }
+
+    .text-input {
+        padding: 3px;
+    }
+}

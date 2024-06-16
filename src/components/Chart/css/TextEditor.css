@@ -1,0 +1,17 @@
+.point-text {
+    width: 550px !important;
+    height: 400px;
+    overflow-y: scroll;
+    height: auto;
+    outline: transparent;
+    word-break: break-all;
+    cursor: text;
+    border-style: none;
+    border-color: Transparent;
+    resize: none;
+    white-space: pre-line;
+}
+
+.point-text::-webkit-scrollbar {
+    display: none;
+}

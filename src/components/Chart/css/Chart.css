@@ -1,0 +1,11 @@
+.chart {
+    /* height: 100%; */
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.grid,
+.editor {
+    padding: 20px;
+}
